@@ -15,6 +15,7 @@ Must perform an election audit of a recent local congressional election. The scr
 ## Resources
 
 - Data provided in the 'Resources' folder as [election_results.csv](https://github.com/srfassihi/election_analysis/blob/abc2c98a1bb09557e75911d916f29ccb1e72c11b/Resources/election_results.csv)
+- Results from Election audit in the 'analysis' folder as [election_analysis.txt](https://github.com/srfassihi/election_analysis/blob/abc2c98a1bb09557e75911d916f29ccb1e72c11b/analysis/election_analysis.txt)
 - Programming done using Python 3.8.2 using Visual Studio Code for Mac (Version: 1.62.2) 
 
 # Summary

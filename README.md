@@ -14,7 +14,7 @@ Must perform an election audit of a recent local congressional election. The scr
 
 ## Resources
 
-- Data provided in the 'Resources' folder as election_results.csv
+- Data provided in the 'Resources' folder as [election_results.csv](https://github.com/srfassihi/election_analysis/blob/abc2c98a1bb09557e75911d916f29ccb1e72c11b/Resources/election_results.csv)
 - Programming done using Python 3.8.2 using Visual Studio Code for Mac (Version: 1.62.2) 
 
 # Summary
@@ -40,10 +40,9 @@ The counties from the ballot given includes:
 
 The election analysis done shows that the highest turnout was at **Denver**, with a voter turnout of: **306,055 (82.8 % of Total)**
 
-
 ## Challenge Overview
-- Write a Python script to automate the process of tabulating the Election results using the required metrics. 
-- Save results to text file and output results in the Terminal
+- Write a [Python script](https://github.com/srfassihi/election_analysis/blob/abc2c98a1bb09557e75911d916f29ccb1e72c11b/PyPoll_Challenge.py) to automate the process of tabulating the Election results using the required metrics. 
+- Save results to [text file](https://github.com/srfassihi/election_analysis/blob/abc2c98a1bb09557e75911d916f29ccb1e72c11b/analysis/election_analysis.txt) and output results in the Terminal
 
 ### Step 1:
 - Initialize a list of counties
